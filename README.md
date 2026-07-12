@@ -1,2 +1,2 @@
 # gammaOS
-Repo for gammaOS
+Repo for gammaOS (the actual one)
